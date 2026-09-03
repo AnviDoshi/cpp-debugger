@@ -1,0 +1,4 @@
+mingw32-make clean
+qmake
+mingw32-make
+.\release\IntelligentDebugger.exe

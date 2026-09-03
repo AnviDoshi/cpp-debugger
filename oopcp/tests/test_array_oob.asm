@@ -1,0 +1,2 @@
+; CHECK_ARRAY idx, size
+CHECK_ARRAY 12, 10
