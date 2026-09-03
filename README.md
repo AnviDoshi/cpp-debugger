@@ -1,2 +1,2 @@
 # cpp-debugger
-A C++ debugger built using Qt, designed to help users debug and analyze C++ programs.
+An AI-assisted C++ debugger built with Qt, featuring code execution, debugging tools, complexity analysis, and Gemini-powered code assistance.
